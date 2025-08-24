@@ -1,0 +1,8 @@
+path: /home/gyrobot/code/segment/image-segmentation-yolov8/data/
+train: images/train 
+val: images/val  
+
+nc: 2
+names:
+  0: medium
+  1: small
