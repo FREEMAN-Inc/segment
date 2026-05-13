@@ -243,13 +243,4 @@ pip install opencv-python
 
 ````
 
-可以再補一個更短的開頭版本：
-
-```markdown
-# Segment
-
-Image segmentation pipeline for point cloud segmentation and downstream 6DoF pose estimation.
-
-This project uses AnyLabeling with Segment Anything to annotate objects, converts JSON annotations into YOLO segmentation format, and trains YOLOv8 segmentation models for object masks. The segmentation result can then be used for point cloud segmentation and 6DoF pose estimation in robotic grasping applications such as random bin picking.
-````
 
